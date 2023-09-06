@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Hero from "./../components/Hero";
 
 function Landing() {
   return (
-    <div>Landing</div>
+    <div><Hero/></div>
   )
 }
 
